@@ -2,13 +2,17 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+
+# Use alias plugin [source: https://github.com/Nitron/pelican-alias]
+PLUGINS = ['pelican_alias',]
+
 AUTHOR = u'Phillip Kent'
 SITENAME = u'www.phillipkent.net'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
