@@ -2,7 +2,7 @@ The QTS Numeracy Skills Test: Information and Resources
 #######################################################
 
 :date: 2016-03-03 10:45
-:modified: 2016-03-03 11:00
+:modified: 2016-03-04 23:00
 :tags: QTS
 :category: qts
 :slug: QTS-test
@@ -91,26 +91,25 @@ pack <http://www.qtsnumeracytest.co.uk/qtsnumeracytest-mental-maths.htm>`__.
 .. has free videos, practice questions, advice on key mathematical methods,
 .. and links to other resources.
 
-A classic general book about primary-level mathematics is `*Mathematics
-Explained for Primary Teachers* <http://www.uk.sagepub.com/haylock/>`__
+A classic general book about primary-level mathematics is `Mathematics
+Explained for Primary Teachers <http://www.uk.sagepub.com/haylock/>`__
 by Derek Haylock. This is very well-written and much recommended. Many
 teachers will have this book so ask around for it; you don't need the
 latest edition if preparing for the QTS test, though if you are teaching
 in primary school the up-to-date information will certainly be helpful.
 The book website has a very useful free resource called the `Numeracy
 Testbank <http://www.uk.sagepub.com/haylock/testbank.htm>`__ - maths
-exercises extracted from Haylock's book `*Numeracy for
+exercises extracted from Haylock's book `Numeracy for
 Teaching* <http://www.uk.sagepub.com/books/Book224897>`__. The website
 does not provide content descriptions, so I have made a `contents list
 here </QTS-test-haylock-numeracy-contents>`__.
 
 I am a fan of `Kjartan Poskitt <http://www.kjartan.co.uk/>`__, author of
-the *`Murderous Maths <http://www.murderousmaths.co.uk/books/books.htm>`__* books for
+the `Murderous Maths <http://www.murderousmaths.co.uk/books/books.htm>`__ books for
 children (the best deal is the 'Power of Ten' boxed collection - but
 this does not include the book on fractions, 'The Mean and Vulgar Bits',
 which is strongly relevant to the QTS test), and also
-*`Everyday Maths for
-Grown-Ups <http://www.kjartan.co.uk/EMFGU/index.htm>`__* which is a
+`Everyday Maths for Grown-Ups <http://www.kjartan.co.uk/EMFGU/index.htm>`__ which is a
 humorous and good-humoured book covering a lot of QTS test topics (but
 not graphs and charts), as well as algebra and more. If the humour
 appeals to you, these books are a great way to absorb ideas.
