@@ -2,7 +2,7 @@ About me
 ########
 
 :date: 2016-02-23 12:30
-:modified: 2016-03-31 12:15
+:modified: 2016-08-18 04:30
 :tags: about, frontpage
 :category: about
 :slug: about-me
@@ -22,6 +22,11 @@ Other things I have done
 ========================
 
 `Art of Anamorphosis`_ is an ongoing (though mostly off, lately) maths-art education project which started as an exhibition and website in 2000.
+
+About this site
+===============
+
+I am moving this site from a Drupal-based dynamic site to a Pelican-based static site. Please excuse appearance and limited content while the work is being done.
 
 .. _Interoute: http://www.interoute.com
 .. _`Design Science`: http://www.design-science.org 

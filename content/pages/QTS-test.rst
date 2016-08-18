@@ -2,7 +2,7 @@ The QTS Numeracy Skills Test: Information and Resources
 #######################################################
 
 :date: 2016-03-03 10:45
-:modified: 2016-03-04 23:00
+:modified: 2016-08-18 04:30
 :tags: QTS
 :category: qts
 :slug: QTS-test
@@ -37,12 +37,12 @@ The more you can memorise **number facts** the less you will have to calculate d
 
 It is so common to find people who try to do the test 'at arms length' due to deep-rooted fears about maths, so they apply methods they know (or half-know) in haphazard ways and hope for the best. So my best advice is to keep working on changing your approach --- open up to the fear and deal with it by training yourself to act efficiently.
 
-Notes on methods
-================
- 
--  `Common fractions, decimals and
-   percentages </blog/qts-numeracy-skills-test-learn-common-fractions-decimals-and-percentages>`__
--  `Multiplying decimals </QTS-test-multiply-decimals>`__
+.. Notes on methods
+.. ================
+.. 
+.. -  `Common fractions, decimals and
+..    percentages </blog/qts-numeracy-skills-test-learn-common-fractions-decimals-and-percentages>`__
+.. -  `Multiplying decimals </QTS-test-multiply-decimals>`__
 
 Department for Education official site
 ======================================
@@ -100,9 +100,10 @@ in primary school the up-to-date information will certainly be helpful.
 The book website has a very useful free resource called the `Numeracy
 Testbank <http://www.uk.sagepub.com/haylock/testbank.htm>`__ - maths
 exercises extracted from Haylock's book `Numeracy for
-Teaching* <http://www.uk.sagepub.com/books/Book224897>`__. The website
-does not provide content descriptions, so I have made a `contents list
-here </QTS-test-haylock-numeracy-contents>`__.
+Teaching <http://www.uk.sagepub.com/books/Book224897>`__. 
+
+.. The website does not provide content descriptions, so I have made a 
+.. `contents list here </QTS-test-haylock-numeracy-contents>`__.
 
 I am a fan of `Kjartan Poskitt <http://www.kjartan.co.uk/>`__, author of
 the `Murderous Maths <http://www.murderousmaths.co.uk/books/books.htm>`__ books for
@@ -170,7 +171,7 @@ Are you looking for a tutor for the QTS numeracy test?
 
 I offer tuition to anywhere online (usually via Skype and shared
 whiteboard), and sometimes face-to-face in North and Central London. I have helped
-more than 50 people to pass the test. A small amount of tuition can be surprisingly effective; two or three 1-hour sessions can cover the key
+more than 70 people to pass the test. A small amount of tuition can be surprisingly effective; two or three 1-hour sessions can cover the key
 methods for Parts 1 and 2 of the test, and set you up with what you need
 to practice as preparation for taking the test. Please get in touch via
 `phillip.kent@xmlsoup.com <mailto:phillip.kent@xmlsoup.com?subject=QTS%20tuition>`__.
