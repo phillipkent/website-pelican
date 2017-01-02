@@ -1,4 +1,4 @@
 Website www.phillipkent.net : Static Site built using Pelican
 =============================================================
 
-...Work in progress...
+The site is published but still under re-construction.

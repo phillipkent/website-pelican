@@ -27,13 +27,13 @@ The second particular thing you need to work on is the several types of graphs t
 What is the key to passing the test?
 ====================================
 
-I have worked with a lot of clients (more than 70 in the past two-and-a-half years) supporting them to take the test.
+I have worked with a lot of clients (about 80 in the past three years) supporting them to take the test.
 
 I ask clients to consciously work on: (1) efficient methods of getting answers, and (2) actively managing the stress of doing Part 1 of the test (the mental questions) - by minimising thinking/calculating and maximising memory recall, and backing this up by step-by-step checking.
 
 There is not only one way to do calculations and you need to find a way that you feel comfortable with, and can carry out confidently and quickly. This is especially important for doing mental arithmetic in Part 1 of the test. You may be told by others that their method is better than yours, or that yours is 'not efficient', or you might think someone else's method is better because they are 'good at maths'. By all means explore different ways of doing things (that's important for being a teacher) but so far as this test is concerned, the priority is to have a method that is fast and accurate **for you**.
 
-The more you can memorise **number facts** the less you will have to calculate during the test, this is enormously beneficial as it saves time and avoids making errors. The key number facts are times tables (up to 10 x 10 at least, even better 12 x 12 and higher), and the common fractions (that is, quarters, fifths, eighths, tenths) and their equivalent forms as decimals and percentages.
+The more you can memorise **number facts** the less you will have to calculate during the test, this is enormously beneficial as it saves time and avoids making errors. The key number facts are times tables (up to 12 x 12), and the common fractions (that is, quarters, fifths, eighths, tenths) and their equivalent forms as decimals and percentages.
 
 It is so common to find people who try to do the test 'at arms length' due to deep-rooted fears about maths, so they apply methods they know (or half-know) in haphazard ways and hope for the best. So my best advice is to keep working on changing your approach --- open up to the fear and deal with it by training yourself to act efficiently.
 

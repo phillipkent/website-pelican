@@ -3,11 +3,15 @@
 from __future__ import unicode_literals
 
 
+# Theme setting
+THEME = "../pelican-themes/blueidea"
+
 # Use alias plugin [source: https://github.com/Nitron/pelican-alias]
 PLUGINS = ['pelican_alias',]
 
 AUTHOR = u'Phillip Kent'
-SITENAME = 'Phillip Kent [SITE UNDER RE-CONSTRUCTION]'
+SITENAME = 'Phillip Kent'
+SITESUBTITLE = 'design science education research'
 SITEURL = 'http://www.phillipkent.net'
 
 PATH = 'content'

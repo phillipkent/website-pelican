@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rsync -e 'ssh -i /home/phillip/.ssh/id_rsa_pelican' -avc --delete output/ phillipkent_phillipkent4@ssh.phx.nearlyfreespeech.net:/home/public
