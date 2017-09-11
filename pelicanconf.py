@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-
 # Theme setting
 THEME = "../pelican-themes/blueidea"
 
 # Use alias plugin [source: https://github.com/Nitron/pelican-alias]
-PLUGINS = ['pelican_alias',]
+# Use render_math plugin for MathJax
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['pelican_alias','render_math']
 
 AUTHOR = u'Phillip Kent'
 SITENAME = 'Phillip Kent'
