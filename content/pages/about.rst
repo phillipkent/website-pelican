@@ -14,6 +14,7 @@ I am a full-time API technical writer for the software and consulting company `P
 Samples of my programming activities are at Github_ and OpenProcessing_.
 
 In spare time I work as a consultant for the science communication agency `Design Science`_.
+
 .. Current projects include designing the communication elements for the medical engineering research project MetaboLight_.
 
 I do private mathematics tuition. I specialise in secondary maths (KS3 and GCSE) and helping teachers and trainees to prepare for the `QTS Numeracy Test`_.  I am also available for proofreading and editing of academic writing (theses, dissertations) or technical writing.
