@@ -2,7 +2,7 @@ About me
 ########
 
 :date: 2016-02-23 12:30
-:modified: 2018-09-11 09:24
+:modified: 2018-09-11 13:06
 :tags: about, frontpage
 :category: about
 :slug: about-me
@@ -12,9 +12,11 @@ About me
 I am a full-time technical writer (specialising in API documentation) for the engineering software company `Aucerna`_ in London.
 
 Samples of my programming activities are on Github_.
+
 .. and OpenProcessing_.
 
 In spare time I do occasional work as a consultant for the science communication agency `Design Science`_.
+
 .. Current projects include designing the communication elements for the medical engineering research project MetaboLight_.
 
 I do freelance work on proofreading and editing of academic writing (theses, dissertations) or technical writing. I also do private mathematics tuition: I specialise in secondary maths (KS3 and GCSE), and helping teachers and trainees to prepare for the `QTS Numeracy Test`_.  
@@ -46,7 +48,7 @@ This site is hosted by NearlyFreeSpeech_ and secure HTTP is enabled by LetsEncry
 .. _`Art of Anamorphosis`: https://www.anamorphosis.com
 .. _Github: https://github.com/phillipkent
 .. _OpenProcessing: http://www.openprocessing.org/user/18229
-.. _`QTS Numeracy Test`: http:QTS-test.html
+.. _`QTS Numeracy Test`: QTS-test.html
 .. _`Pelican`: http://getpelican.com
 .. _NearlyFreeSpeech: https://nearlyfreespeech.net
 .. _LetsEncrypt: https://letsencrypt.org

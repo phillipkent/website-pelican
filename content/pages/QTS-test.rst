@@ -2,7 +2,7 @@ The QTS Numeracy Skills Test: Information and Resources
 #######################################################
 
 :date: 2016-03-03 10:45
-:modified: 2016-08-18 04:30
+:modified: 2017-09-11 13:07
 :tags: QTS
 :category: qts
 :slug: QTS-test
@@ -27,7 +27,7 @@ The second particular thing you need to work on is the several types of graphs t
 What is the key to passing the test?
 ====================================
 
-I have worked with a lot of clients (about 80 in the past three years) supporting them to take the test.
+I have worked with a lot of clients (about 100 over the past five years) supporting them to take the test.
 
 I ask clients to consciously work on: (1) efficient methods of getting answers, and (2) actively managing the stress of doing Part 1 of the test (the mental questions) - by minimising thinking/calculating and maximising memory recall, and backing this up by step-by-step checking.
 
@@ -170,8 +170,8 @@ Are you looking for a tutor for the QTS numeracy test?
 ======================================================
 
 I offer tuition to anywhere online (usually via Skype and shared
-whiteboard), and sometimes face-to-face in North and Central London. I have helped
-more than 70 people to pass the test. A small amount of tuition can be surprisingly effective; two or three 1-hour sessions can cover the key
+whiteboard), and sometimes face-to-face in Central London. I have helped
+more than 80 people to pass the test. A small amount of tuition can be surprisingly effective; two or three 1-hour sessions can cover the key
 methods for Parts 1 and 2 of the test, and set you up with what you need
 to practice as preparation for taking the test. Please get in touch via
 `phillip.kent@xmlsoup.com <mailto:phillip.kent@xmlsoup.com?subject=QTS%20tuition>`__.
